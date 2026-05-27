@@ -1,7 +1,0 @@
-[
-  {
-    "directory": "C:/Users/gowth/Desktop/C++ Practice",
-    "command": "C:/Users/gowth/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/g++.exe -std=c++17 -g -c Heloworld.cpp -o Heloworld.o",
-    "file": "C:/Users/gowth/Desktop/C++ Practice/Heloworld.cpp"
-  }
-]
