@@ -58,8 +58,8 @@ Solving one problem a day, locally with `main()` and test cases.
 | # | Problem | Status |
 |---|---------|--------|
 | 001 | Two Sum | Done |
-| 002 | Roman to Integer | - |
-| 003 | Palindrome Number | - |
+| 002 | Palindrome Number | Done |
+| 003 | Roman to Integer | - |
 | 004 | Maximum Subarray | - |
 | 005 | Remove Element | - |
 | 006 | Contains Duplicate | - |
