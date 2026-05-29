@@ -59,8 +59,8 @@ Solving one problem a day, locally with `main()` and test cases.
 |---|---------|--------|
 | 001 | Two Sum | Done |
 | 002 | Palindrome Number | Done |
-| 003 | Roman to Integer | - |
-| 010 | Longest Common Prefix | Done |
+| 003 | Longest Common Prefix | Done |
+| 004 | Roman to Integer | Done |
 | 004 | Maximum Subarray | - |
 | 005 | Remove Element | - |
 | 006 | Contains Duplicate | - |
