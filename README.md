@@ -93,3 +93,15 @@ g++ "c++/01_hello_world.cpp" -o hello
 - **Language:** C++17
 - **Compiler:** g++ (MinGW/WinLibs)
 - **Editor:** Cursor
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/gowthmrmsmy/C-/tree/master/3718-smallest-missing-multiple-of-k) |
+## Hash Table
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/gowthmrmsmy/C-/tree/master/3718-smallest-missing-multiple-of-k) |
+<!---LeetCode Topics End-->
